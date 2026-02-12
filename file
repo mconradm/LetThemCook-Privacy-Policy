@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LetThemCook! Privacy Policy</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 860px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1 { line-height: 1.2; margin: 0 0 8px; }
+    .meta { margin: 0 0 24px; opacity: 0.85; }
+    h2 { margin-top: 28px; }
+    h3 { margin-top: 18px; }
+    ul { padding-left: 20px; }
+    a { text-decoration: underline; }
+    hr { margin: 28px 0; opacity: 0.35; }
+  </style>
+</head>
+<body>
+  <h1>LetThemCook! Privacy Policy</h1>
+  <p class="meta"><strong>Last updated:</strong> 10 January 2026</p>
+
+  <p>
+    LetThemCook! respects your privacy. This Privacy Policy explains how information is handled when you use the
+    LetThemCook! iOS app.
+  </p>
+
+  <p>
+    This app is designed for general consumers and does not require you to create an account or sign up with an email
+    address.
+  </p>
+
+  <hr />
+
+  <h2>Information We Collect</h2>
+  <p>
+    LetThemCook! is built to minimise data collection. The information handled by the app is limited to what is
+    necessary for core functionality.
+  </p>
+
+  <h3>Camera and Images (Menus or Your Own Photos)</h3>
+  <ul>
+    <li>The app allows you to capture a photo using your device camera or select an existing photo from your device to scan text (OCR).</li>
+    <li>Images are used temporarily on your device for cropping and text recognition (OCR).</li>
+    <li>Images are <strong>not stored</strong>, <strong>not uploaded</strong>, and <strong>not retained</strong> by us after processing is complete.</li>
+  </ul>
+
+  <h3>Text from Images (OCR Output)</h3>
+  <ul>
+    <li>After OCR, the recognised text may be transmitted to our servers and/or AI providers to generate recipes and related outputs.</li>
+    <li>We use this text only to provide the requested feature and improve app functionality.</li>
+  </ul>
+
+  <h3>Location Information</h3>
+  <ul>
+    <li>The app may request access to your <strong>precise location</strong> to identify nearby restaurants at the moment you use the feature.</li>
+    <li>Location data is used only in real time.</li>
+    <li>Location data is <strong>not stored</strong>, <strong>not linked to your identity</strong>, and <strong>not used for tracking</strong>.</li>
+  </ul>
+
+  <h3>Anonymous Identifier (No Sign-up Required)</h3>
+  <ul>
+    <li>The app may create an <strong>anonymous identifier</strong> to support core functionality such as saving app state, managing entitlements, and associating generated content with your device session.</li>
+    <li>This identifier is not an email address and does not require you to create an account.</li>
+  </ul>
+
+  <h3>Usage and Diagnostics Data</h3>
+  <ul>
+    <li>The app may collect <strong>anonymous usage events</strong>, such as paywall views or interactions, strictly to support app functionality and basic analytics.</li>
+    <li>The app may collect crash reports and performance diagnostics through Apple’s built-in tools.</li>
+    <li>This information does not identify you personally.</li>
+  </ul>
+
+  <h3>Information We Do Not Collect</h3>
+  <p>LetThemCook! does <strong>not</strong> collect:</p>
+  <ul>
+    <li>Names, email addresses, phone numbers, or contacts</li>
+    <li>Account credentials (usernames/passwords)</li>
+    <li>Advertising identifiers for ad targeting</li>
+    <li>User-generated profiles</li>
+    <li>Stored photos or documents from your device</li>
+  </ul>
+
+  <hr />
+
+  <h2>How We Use Information</h2>
+  <p>Any information handled by the app is used only to:</p>
+  <ul>
+    <li>Provide core app features, such as scanning text and (where applicable) identifying nearby restaurants</li>
+    <li>Generate recipes and related outputs based on recognised text</li>
+    <li>Display and manage subscription access</li>
+    <li>Improve app stability and performance</li>
+    <li>Understand general feature usage in an anonymous way</li>
+  </ul>
+
+  <p>We do not use data for advertising, marketing, or tracking across apps or websites.</p>
+
+  <hr />
+
+  <h2>Data Retention</h2>
+  <ul>
+    <li>Images are processed on-device and discarded immediately.</li>
+    <li>Location data is used only at the time of the request and is not retained.</li>
+    <li>Recognised text and generated outputs may be retained as needed to provide features such as recipe history (if enabled in the app) and to support app operation.</li>
+    <li>Anonymous usage and diagnostic data may be retained in aggregated form to support app operation and improvements.</li>
+  </ul>
+
+  <hr />
+
+  <h2>Third-Party Services</h2>
+  <p>LetThemCook! uses the following third-party services solely to operate the app:</p>
+
+  <h3>Apple Services</h3>
+  <ul>
+    <li><strong>StoreKit</strong> for In-App Purchases and subscriptions. Payment information is handled entirely by Apple. We do not receive or store payment details.</li>
+    <li>Apple’s crash and performance diagnostics tools.</li>
+  </ul>
+
+  <h3>Superwall</h3>
+  <ul>
+    <li>Superwall is used to display paywalls and help manage subscription entitlements.</li>
+    <li>Superwall may collect device information and usage events (for example, paywall views or interactions) to provide analytics and improve performance.</li>
+  </ul>
+
+  <p>No third-party services are used for advertising or cross-app tracking.</p>
+
+  <hr />
+
+  <h2>User Privacy Rights</h2>
+  <p>You control access to device features such as the camera, photo library, and location through iOS system settings.</p>
+  <p>You can:</p>
+  <ul>
+    <li>Deny or revoke camera, photo library, or location permissions at any time</li>
+    <li>Manage or cancel subscriptions through your Apple ID settings</li>
+  </ul>
+
+  <p>
+    Because the app does not require sign-up with personal details, there is no personal user profile to access, modify,
+    or delete.
+  </p>
+
+  <hr />
+
+  <h2>Children’s Privacy</h2>
+  <p>LetThemCook! is not directed to children under the age of 13.</p>
+  <p>
+    The app does not knowingly collect personal information from children. If you believe a child has provided
+    information through the app, please contact us so we can address the issue.
+  </p>
+
+  <hr />
+
+  <h2>Changes to This Policy</h2>
+  <p>
+    This Privacy Policy may be updated from time to time to reflect changes in the app or legal requirements. Any
+    updates will be posted on this page with a revised “Last updated” date.
+  </p>
+
+  <hr />
+
+  <h2>Contact Information</h2>
+  <p>
+    If you have questions or concerns about this Privacy Policy or how LetThemCook! handles privacy, you can contact us
+    at:
+  </p>
+  <p><a href="mailto:contact@letthemcook.app">contact@letthemcook.app</a></p>
+</body>
+</html>
